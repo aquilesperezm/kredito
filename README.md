@@ -1,4 +1,4 @@
-# prestamos_back
+# Kreditos
 
 Una aplicación para la gestión de deudas, en este repositorio se ha implementado el backend de la aplicación. 
 
