@@ -1,0 +1,27 @@
+{
+    "id": 1,
+    "pago_id": 1,
+    "nombre_del_cliente": "ari c r",
+    "cedula": "007",
+    "telefono": "55430878",
+    "fecha": "2024-03-07T23:43:52.964451",
+    "pendiente": 60,
+    "comentario": "primer pago",
+    "pagos_de_cuotas": [
+        {
+            "numero_de_cuota": 1,
+            "abonado": 24,
+            "tiene_mora": False
+        },
+        {
+            "numero_de_cuota": 2,
+            "abonado": 24,
+            "tiene_mora": False
+        },
+        {
+            "numero_de_cuota": 3,
+            "abonado": 12,
+            "tiene_mora": False
+        }
+    ]
+}
